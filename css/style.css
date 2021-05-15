@@ -1,0 +1,68 @@
+.span {
+  font-size: 20px;
+  color: red;
+}
+
+.bigGreen {
+  font-size: 25px;
+  color: green;
+}
+
+.sam1 {
+  background-color: yellow;
+}
+
+.par1 {
+  color: purple;
+}
+
+.sam1 {
+  color: green;
+}
+
+.block {
+  color: blue;
+}
+
+.arial{
+  font-family: Arial, Helvetica;
+}
+.fontsize30{
+font-size: 30px;
+}
+.italic{
+	font-style: italic;
+}
+.font700{
+	font-weight: 700;
+}
+.colorred{
+	color: #f00f00;
+}
+.textright{
+	text-align: center;
+}
+.decoration{
+	text-decoration: line-through;
+}
+.shadow{
+	text-shadow: 1px 1px 15px blue;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.ident{
+	text-indent: 50px;
+}
+.lspace{
+	letter-spacing: 8px;
+}
+.wspace{
+	word-spacing: 10px;
+}
+.whitespace{
+	white-space: nowrap;
+}
+.lineheight{
+	line-height: 40px;
+}
